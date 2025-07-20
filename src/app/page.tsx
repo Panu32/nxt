@@ -1,5 +1,7 @@
 import HeroSection from "@/components/HeroSection";
 import { main } from "motion/react-client";
+import "./globals.css";
+
 
 
 export default function Home() {

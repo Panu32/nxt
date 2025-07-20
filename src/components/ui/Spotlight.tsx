@@ -1,6 +1,7 @@
 import React from "react";
 import { cn } from "@/utils/cn";
-
+import { log } from "console";
+console.log("100");
 type SpotlightProps = {
   className?: string;
   fill?: string;
